@@ -1,2 +1,2 @@
-# woocommerce-whatsapp
-Woocommerce Order to WhatsApp
+# Woocommerce Order to WhatsApp
+WordPress Plugin for Woocommerce.
